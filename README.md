@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I’m **Luan Ramos**  
 
-<!--
-**developerluanramos/developerluanramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Developer | Tech Educator | Lifelong Learner**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub space! I’m passionate about transforming ideas into real-world applications and sharing knowledge along the way. With a strong background in software development and a growing focus on pedagogy, I strive to build solutions that not only solve problems but also inspire learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 **Tech Stack & Tools**  
+
+- **Languages:** PHP, JavaScript, TypeScript, Python  
+- **Frameworks & Libraries:** Laravel, Angular, Vue.js, React, Livewire  
+- **Databases:** PostgreSQL, MySQL, Firebird 
+- **Tools:** Docker, Heroku, AWS
+- **Management:** Jira, BitBucket, Confluence
+- **Practices:** UML, Agile Methodologies, Clean Code, Test-Driven Development  
+
+---
+
+## 🎸 **Beyond the Code**  
+
+When I’m not coding or teaching, you’ll probably find me composing music with my band or diving into new creative projects. I believe that creativity fuels both art and code, and I love blending the two whenever I can.
+
+---
+
+## 🤝 **Let’s Connect!**  
+
+- [LinkedIn](https://www.linkedin.com/in/luan-ramos/)  
+- [GitHub](https://github.com/developerluanramos)  
+
+Feel free to explore my projects, reach out for collaborations, or just connect to talk about tech, music, or education! 🚀
