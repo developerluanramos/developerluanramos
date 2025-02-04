@@ -1,6 +1,6 @@
 # 👋 Hello, I’m **Luan Ramos**  
 
-🎯 **Software Developer | Tech Educator | Lifelong Learner**  
+🎯 **Software Developer | Agile Entusiast | Lifelong Learner**  
 
 Welcome to my GitHub space! I’m passionate about transforming ideas into real-world applications and sharing knowledge along the way. With a strong background in software development and a growing focus on pedagogy, I strive to build solutions that not only solve problems but also inspire learning.
 
@@ -14,6 +14,13 @@ Welcome to my GitHub space! I’m passionate about transforming ideas into real-
 - **Tools:** Docker, Heroku, AWS
 - **Management:** Jira, BitBucket, Confluence
 - **Practices:** UML, Agile Methodologies, Clean Code, Test-Driven Development  
+
+---
+
+## 🎸 **Certifications**  
+
+- **PSM I** Professional Scrum Master  
+- **PSPO I** Professional Scrum Product Owner 
 
 ---
 
