@@ -2,7 +2,7 @@
 
 🎯 **Software Developer | Agile Entusiast | Lifelong Learner**  
 
-Welcome to my GitHub space! I’m passionate about transforming ideas into real-world applications and sharing knowledge along the way. With a strong background in software development and a growing focus on pedagogy, I strive to build solutions that not only solve problems but also inspire learning.
+Welcome to my GitHub space! I’m passionate about transforming ideas into real-world applications and sharing knowledge along the way. With a strong background in software development and a growing focus on agile methods, I strive to build solutions that not only solve problems but also inspire learning.
 
 ---
 
