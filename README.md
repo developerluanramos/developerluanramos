@@ -19,8 +19,9 @@ Welcome to my GitHub space! I’m passionate about transforming ideas into real-
 
 ## 🎸 **Certifications**  
 
-- **PSM I** Professional Scrum Master  
-- **PSPO I** Professional Scrum Product Owner 
+- **PSM I** Professional Scrum Master - Scrum.org  
+- **PSPO I** Professional Scrum Product Owner - Scrum.org
+- **Jira Essentials** - Atlassian Corporation 
 
 ---
 
